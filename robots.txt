@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laexugheev.bryan.blog/sitemap.xml
